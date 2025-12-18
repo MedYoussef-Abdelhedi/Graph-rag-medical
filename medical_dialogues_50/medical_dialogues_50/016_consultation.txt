@@ -1,0 +1,5 @@
+<01> description : What does the darker pigmentation at the armpits indicate?
+
+<02> patient : Hello doctor, My reverse elbow armpits have developed a darker (my skin color is fair) pigmentation. This pigmentation has also affected the whole of my groin area. Some dots of such pigmentation have also come up under my extreme armpits. What should I do now? What is this condition? Can you diagnose the state conclusively?
+
+<03> doctor : "Hello. I understand your concern. The pictures are a bit hazy. But from the given images, it looks like a fungal infection by the name of pityriasis versicolor. I would also need to see your chest, upper back, and shoulders to be sure. Kindly send clear photos of the same to make a conclusive diagnosis. Meanwhile, you can start using the following medicines. 1. Tab Fluconazole 400 mg start and repeat once after a week. 2. 2 % Ketoconazole lotion apply for 5-7 mins and wash off once a day."

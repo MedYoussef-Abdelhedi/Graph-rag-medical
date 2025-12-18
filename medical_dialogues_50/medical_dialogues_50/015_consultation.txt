@@ -1,0 +1,5 @@
+<01> description : Can a painless tooth be extracted since it has a hole in it?
+
+<02> patient : Hello doctor,Can I pull out hard teeth out no pain because I got a hole in my teeth? Whenever I use to eat something, it got stuck in it and caused severe pain. Kindly give me some advice about pulling it out without any pain.
+
+<03> doctor : "Hello. I had gone through your question, and I can understand your concern. If the pain occurs only when you eat food and it gets stuck into it, it is reversible pulpitis. For that, you do not need to get it extracted. You need to get it filled, and it will cost you less than that of pulling (extraction). Second, you will save your tooth too. My suggestion is to get dental filling done as soon as possible. If you want to get it removed, you need to visit a doctor (dentist), and there will be no pain because during extraction local anesthesia is given."

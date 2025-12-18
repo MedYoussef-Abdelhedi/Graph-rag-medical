@@ -1,0 +1,5 @@
+<01> description : What is the main reason for sepsis in a newborn?
+
+<02> patient : Hello doctor, What is the main reason for sepsis to occur in a newborn? Will parents be the reason?
+
+<03> doctor : Hi. For further information consult a paediatrician online -->

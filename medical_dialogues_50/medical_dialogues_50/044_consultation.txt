@@ -1,0 +1,5 @@
+<01> description : Every time I eat spicy food, I poop blood. Why?
+
+<02> patient : Hi doctor, I am a 26 year old male. I am 5 feet and 9 inches tall and weigh 255 pounds. When I eat spicyÂ food, I poop blood. Sometimes when I have constipation as well, I poop a little bit of blood. I am really scared that I have colon cancer. I do have diarrhea often. IÂ do not have aÂ family history of colonÂ cancer. I got blood tests done last night. Please find my reports attached.
+
+<03> doctor : "Hello. I have gone through your information and test reports (attachment removed to protect patient identity). So, in view of that, there are a couple of things that I can opine upon: Hope that helps. For more information consult a general surgeon online -->"

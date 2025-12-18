@@ -1,0 +1,5 @@
+<01> description : Why is my free PSA abnormal?
+
+<02> patient : Hello doctor, 50 years old, 5.8 inches, 260 lbs. On blood pressure pills. My doctor is out of town for a few weeks. I reviewed PSA test results and apparently I have one abnormal reading out of three. PSA total 0.5, PSA free 0.1, PSA % free 20. The PSA % free 20 is in red indicating abnormal. What does this mean? What causes it to be abnormal?
+
+<03> doctor : "Hi. Free PSA should be more than 15 % to rule out prostate cancer. Free PSA is an additional tool used when PSA is above 2.5 and we want to check whether high PSA is due to benign prostate growth or due to prostate cancer. Some laboratories use 25 % cutoff, but most have 15 % cutoff value. Since your total PSA is quite low and free PSA is above 15 %, you should not worry. If in doubt, repeat after a few months."

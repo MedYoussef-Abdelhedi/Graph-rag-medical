@@ -1,0 +1,5 @@
+<01> description : Why is there a continuous rise in temperature despite taking antibiotics?
+
+<02> patient : Hi doctor, MyÂ father is 71 years old. He had aÂ fever for a week, and the temperature raised up to 104 during theÂ night along with frequent urination. Two days ago, the fever came down to 98.4 for five hoursÂ but again increased to 102.3 despite taking theÂ same antibiotics. He is takingÂ tablet Gudcef-CV 200 for five days and injection Monocef, twice a day for fourÂ days. His TLC was 18,000 last week. Please give your opinion.
+
+<03> doctor : Hi. I went through your post and investigation (attachment removed to protect patient identity). Regards. For further queries consult an internal medicine physician online -->

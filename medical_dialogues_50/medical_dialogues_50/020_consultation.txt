@@ -1,0 +1,5 @@
+<01> description : Can my 3 year old son lead a normal life after sepsis?
+
+<02> patient : Hi doctor, My 3 year old son was diagnosed with sepsis with SIRS, three days back. But, now his WBC and C-reactive protein are within limits. Will he have sepsis again? He frequently gets wheezing and allergic cough. He is currently taking Amclav.
+
+<03> doctor : Hello. Regards. For more information consult a paediatrician online -->

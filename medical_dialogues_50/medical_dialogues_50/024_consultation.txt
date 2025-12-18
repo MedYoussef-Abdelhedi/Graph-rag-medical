@@ -1,0 +1,5 @@
+<01> description : Can thyroid problem cause excessive hair fall?
+
+<02> patient : Hi doctor, I have thyroid issues for the past three years. I got this when I was pregnant. I am taking Thyronorm 75 mcg tablet for the last three months. Recently, I have done the thyroid test and my T3 and T4 are normal and TSH is very low. It shows less than 0.01. What does it indicate? First, I was on 50 mcg and before three months I started 75 mcg as the TSH was approximately 6 at that time. Please explain.
+
+<03> doctor : Hi. For further doubts consult an obstetrician and gynaecologist online -->

@@ -1,0 +1,5 @@
+<01> description : Is PAP test valid for screening prostatitis symptoms?
+
+<02> patient : Hi doctor, I asked my doctor to do PSA test. The PSA came back normal at 1.0 ng/mL. However, he also did prostatic acid phosphatase test which was high at 4.5 ng/mL. My question is whether prostatic acid phosphatase test is valid for screening or not? Should I need to do these tests again? I had prostatitis symptoms in the past. Now, it seems to be fine.
+
+<03> doctor : "Hi. I have gone through your query. Prostatic acid phosphatase (PAP) has been replaced by PSA (prostate-specific antigen test). It is better in the detection of prostate cancer compared to PAP. The elevation of PAP levels alone is not a cause for concern. I hope your treating doctor has done a rectal exam to find out any prostate nodules. If it is normal, then it is not necessary to repeat the tests. Hope this helps you. Feel free to revert back with any questions. For more information consult an urologist online -->"
